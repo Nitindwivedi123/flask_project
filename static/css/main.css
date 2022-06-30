@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th{
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td ,input{
+    text-align: center;
+    padding: 5px;
+}
+
+.form ,input{
+    margin-top: 20px;
+}
+
+#content , input{
+    width: 70%;
+}
+input{
+    text-align:center;
+    border: 1px solid rgb(6, 6, 6);
+    background-color: rgb(230, 230, 173);
+}
+form{
+    text-align:center;
+}
